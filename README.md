@@ -1,10 +1,10 @@
-# Codyman & NextGen AI
+# French Team AI & Codyman
 
 **Réunir les codeurs français pour révolutionner l'utilisation de l'IA**
 
-![NextGen AI Logo](https://via.placeholder.com/150) *(Ajoutez votre logo ici)*
+![NextGen AI Logo](logo.jpg)
 
-Bienvenue dans le projet **Codyman & NextGen AI**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
+Bienvenue dans le projet **Codyman & French Team AI**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
 
 ---
 
@@ -20,7 +20,7 @@ Le monde de l'IA évolue rapidement, mais il manque encore un élément crucial 
 
 ---
 
-## Pourquoi Rejoindre NextGen AI ?
+## Pourquoi Rejoindre French Team AI ?
 
 L'IA est partout, mais elle nécessite des outils robustes pour être pleinement exploitée. Avec notre plateforme, vous pourrez :
 - Suivre en temps réel les modifications apportées par votre assistant IA.
