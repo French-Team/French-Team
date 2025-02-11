@@ -4,7 +4,7 @@
 
 ![NextGen AI Logo](french-1.jpg)
 ---
-[Presentation](https://www.youtube.com/watch?v=0iMMNdhO5_I)
+[Presentation du Projet sur Youtube : ici](https://www.youtube.com/watch?v=0iMMNdhO5_I)
 ---
 
 Bienvenue dans le projet **Codyman & French Team AI**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
