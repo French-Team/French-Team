@@ -66,5 +66,5 @@ Vous souhaitez rejoindre notre communauté et contribuer à l'avenir de l'IA ? V
    git clone https://github.com/nextgen-ai/codyman.git
 
 ---
-![NextGen AI Interface](readme.PNG)
+![NextGen AI Interface](interface.PNG)
 
