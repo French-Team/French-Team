@@ -39,6 +39,10 @@ L'IA est partout, mais elle nécessite des outils robustes pour être pleinement
 En résumé, nous fournissons les outils nécessaires pour transformer vos idées en réalité tout en minimisant les complications techniques.
 
 ---
+![NextGen AI Interface](interfacev2.jpg)
+---
+![NextGen AI Interface](interface.PNG)
+---
 
 ## Fonctionnalités Clés
 
@@ -71,6 +75,3 @@ Vous souhaitez rejoindre notre communauté et contribuer à l'avenir de l'IA ? V
    ```bash
    git clone https://github.com/nextgen-ai/codyman.git
 
----
-![NextGen AI Interface](interface2.jpg)
-![NextGen AI Interface](interface.PNG)
