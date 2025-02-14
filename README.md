@@ -22,9 +22,12 @@ Le monde de l'IA évolue rapidement, mais il manque encore un élément crucial 
 - Introduire **Codestral**, un chat intégré pour collaborer et superviser vos projets en temps réel.
 
 ---
+### Boite a idée
+
 ![NextGen AI Interface](system.jpg)
 ---
-
+![NextGen AI Interface](recompense.jpg)
+---
 ## Pourquoi Rejoindre French Team AI ?
 
 L'IA est partout, mais elle nécessite des outils robustes pour être pleinement exploitée. Avec notre plateforme, vous pourrez :
