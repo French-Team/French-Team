@@ -26,7 +26,11 @@ Le monde de l'IA évolue rapidement, mais il manque encore un élément crucial 
 
 ![NextGen AI Interface](system.jpg)
 ---
+## Systeme de récompense
 ![NextGen AI Interface](recompense.jpg)
+---
+## Systeme de context Régénérer
+![NextGen AI Interface](deroulement1.jpg)
 ---
 ## Pourquoi Rejoindre French Team AI ?
 
