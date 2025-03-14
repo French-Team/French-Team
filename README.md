@@ -2,9 +2,9 @@
 
 **Réunir les codeurs français pour révolutionner l'utilisation de l'IA**
 
-![NextGen AI Logo](french-1.jpg)
----
 ![NextGen codestral Logo](codestral.png)
+---
+![NextGen AI Logo](french-1.jpg)
 ---
 [Presentation du Projet sur Youtube : ici](https://www.youtube.com/watch?v=0iMMNdhO5_I)
 ---
