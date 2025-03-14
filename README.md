@@ -4,6 +4,8 @@
 
 ![NextGen AI Logo](french-1.jpg)
 ---
+![NextGen codestral Logo](codestral.png)
+---
 [Presentation du Projet sur Youtube : ici](https://www.youtube.com/watch?v=0iMMNdhO5_I)
 ---
 
