@@ -2,7 +2,7 @@
 
 **Réunir les codeurs français pour révolutionner l'utilisation de l'IA**
 
-![NextGen codestral Logo](codestral.png)
+![NextGen Minautor Logo](logo-minautor.png)
 ---
 ![NextGen AI Logo](french-1.jpg)
 ---
