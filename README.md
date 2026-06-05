@@ -1,15 +1,13 @@
-# French Team AI & Codyman
+# French Team AI & Minautor
 
 **Réunir les codeurs français pour révolutionner l'utilisation de l'IA**
 
 ![NextGen Minautor Logo](logo-minautor.png)
 ---
-![NextGen AI Logo](french-1.jpg)
----
 [Presentation du Projet sur Youtube : ici](https://www.youtube.com/watch?v=0iMMNdhO5_I)
 ---
 
-Bienvenue dans le projet **Codyman & French Team AI**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
+Bienvenue dans le projet **MINAUTOR**, où nous visons à rassembler les développeurs français passionnés par l'intelligence artificielle (IA). Si vous êtes intéressé(e) par des projets innovants qui transforment la manière dont l'IA est utilisée, vous êtes au bon endroit !
 
 ---
 
